@@ -1,0 +1,20 @@
+﻿  FileName.c
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(63,18): warning C4244: '=': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(148,22): warning C4013: 'strlen' tanımsız; int döndüren extern olduğu varsayılıyor
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(213,12): warning C4013: 'strdup' tanımsız; int döndüren extern olduğu varsayılıyor
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(213,5): warning C4047: 'return': 'char *', yöneltme düzeyi sayısı bakımından 'int' ile aynı değil
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(266,13): warning C4013: 'Sleep' tanımsız; int döndüren extern olduğu varsayılıyor
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(275,48): warning C4244: 'işlev': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(312,52): warning C4244: 'işlev': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(321,61): warning C4244: 'işlev': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(328,21): warning C4473: 'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(328,21): message : yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(328,21): message : eksik 2 değişen sayıda bağımsız değişkeni '%s' biçim dizesi için gereklidir
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(328,21): message : bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(340,21): warning C4473: 'scanf_s' : biçim dizesi için yeterli bağımsız değişken geçirilmedi
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(340,21): message : yer tutucular ve bunların parametreleri 2 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(340,21): message : eksik 2 değişen sayıda bağımsız değişkeni '%s' biçim dizesi için gereklidir
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(340,21): message : bu bağımsız değişken arabellek boyutu olarak kullanılıyor
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(312,17): warning C4047: 'başlatılıyor': 'int', yöneltme düzeyi sayısı bakımından 'int *' ile aynı değil
+C:\Users\sahin\source\repos\C proje\C proje\FileName.c(143): warning C4172: yerel değişkenin veya geçici : hexadecimal öğesinin adresi döndürülüyor
+  C proje.vcxproj -> C:\Users\sahin\source\repos\C proje\x64\Debug\C proje.exe
